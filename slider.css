@@ -1,0 +1,13 @@
+body {
+    background: url(https://avatars.mds.yandex.net/get-pdb/1244951/86c47ed1-dbaf-4963-8841-1084ff618087/s1200?webp=false);
+    background-size: cover;
+}
+.itk-slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;  
+}
+.itk-slider .slide-img {
+    height: 300px;
+    width: 200px;
+}
